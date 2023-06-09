@@ -2,6 +2,8 @@
 
 This is a simple text editor application built with Java and JavaFX. It provides basic functionalities like saving files, saving files with a different name, finding and replacing text with case matching, and displaying word count.
 
+![Simple Text Editor ](Screenshot.png)
+
 ## Features
 
 - Save: Save the current file.
